@@ -1,35 +1,29 @@
-##  👩‍💻 Nikhitha A | Data Analyst  
+Nikhitha A | Data Analyst
 
-Hi there! 👋 I’m Nikhitha, a **Data Analyst** who loves digging into messy data, finding patterns, and telling stories with dashboards.  
+Data Analyst passionate about turning raw data into clear business insights using SQL, Python, Power BI, and analytics automation.
 
-💡 What I do:  
-- Crunch numbers with **SQL & Python** 🐍  
-- Build dashboards with **Power BI & Excel** 📊  
-- Clean, transform, and model data until it *behaves* ✨  
+Skills
 
-🚀 Projects I’ve worked on:  
-- Marketing Funnel Dashboard (Power BI)  
-- Sales & Campaign Tracker (SQL + Power BI)  
-- Customer Segmentation & Churn Insights (Python + BI)  
-- Supply Chain & Inventory Dashboard (Excel + Power BI)  
+SQL (joins, aggregations, window functions)
 
-🌱 Always exploring new tools and techniques in analytics.  
-☕ Fun fact: Most of my dashboards run on coffee & curiosity.  
+Python (Pandas)
+
+Power BI (data modeling, DAX, KPI dashboards)
+
+Excel
+
+Automation (n8n for data pipelines and reporting)
+
+Projects
+
+Sales Insights Dashboard – AtliQ Hardwares
+SQL, Power BI — Analyzed declining sales to identify underperforming regions and products.
+
+FMCG Sales Promotion Analysis – AtliQ Mart
+Python, SQL, Power BI — Measured promotion impact on sales and profitability.
+
+Transportation Performance Dashboard – Goodcabs
+SQL, Power BI, n8n Automation — Built automated performance reporting for trips, revenue, and utilization.
 
 📫 Let’s connect: [LinkedIn](https://linkedin.com/in/nikhithaadur)  
 
-
-<!--
-**Nikki2001-crypto/Nikki2001-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
